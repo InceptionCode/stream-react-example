@@ -77,3 +77,6 @@ Note: Paths below are relative to the root project directory.
 
 ### 4. Win.
 1. Browse to `http://localhost:3000`.
+
+# My changes
+All of my work, practice files, changes and demo will be on the "InceptionCode" branch. Other branches abbreviated with InceptionCode are mine as well.
